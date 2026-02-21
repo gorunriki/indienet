@@ -1,0 +1,6 @@
+title: "riki’s corner"
+description: "My personal blog about programming, technology, and life."
+baseurl: ""
+url: "https://indienet.gorunriki.my.id"
+markdown: kramdown
+theme: null
